@@ -1,1 +1,3 @@
-"# optmization-algorithms" 
+# Algoritmos de Otimização
+
+Os algoritmos de otimização são uma importante área da Inteligência Artificial que são responsáveis pela resolução de problemas complexos, tendo como base encontrar soluções para problemas de otimização e busca. Existem várias aplicações práticas deste tipo de algoritmo, as quais podem ser aplicadas na resolução de problemas em cenários comerciais do dia a dia. Um exemplo clássico é a resolução do problema de choque de horários de professores em uma escola, no qual existem diversas combinações de horários e aulas e o objetivo é construir a grade de horário dinamicamente de acordo com a quantidade de aulas e a disponibilidade de cada professor. Outros exemplos são: empresas de telecomunicações podem projetar novas redes óticas, transportadoras podem planejar melhor a rota de entrega de mercadorias, investidores podem  escolher os melhores investimentos; dentre várias outras.
